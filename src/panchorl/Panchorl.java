@@ -17,7 +17,7 @@ public class Panchorl {
          pete.equals(peto);
          System.out.println (peto.getEdad());
         */ 
-        Personaje maximus = new Personaje("maximus", 100,90);
+        Personaje maximus = new Personaje("maximus", 100,80);
         Personaje meximus = new Personaje("meximus", 102,93);
         Personaje moximus = new Personaje("moximus", 103,87);
         Personaje miximus = new Personaje("miximus", 190,80);
